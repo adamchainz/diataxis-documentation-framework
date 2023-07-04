@@ -55,7 +55,7 @@ Think of characteristics such as:
 * *being beautiful*
 * *anticipating the user*
 
-Unlike the characteristics of deep quality, they cannot be checked or
+Unlike the characteristics of functional quality, they cannot be checked or
 measured, but they can still be clearly identified. When we encounter them,
 we usually (not always, because we need to be capable of it) recognise
 them.
@@ -69,7 +69,7 @@ What's the difference?
 Aspects of deep quality seem to be genuinely distinct in kind from the
 characteristics of functional quality.
 
-Documentation can meet all the demands of functional quality, and still fail
+Documentation can meet all the demands of functional quality and still fail
 to exhibit deep quality. For example, there are many examples of
 documentation that is accurate and consistent, even useful, and yet
 awkward and unpleasant to use.
@@ -78,7 +78,7 @@ It's also noticeable that while characteristics of functional quality such as
 completeness and accuracy are **independent** of each other, those of deep
 quality are hard to disentangle. *Having flow* and *anticipating the user*
 are aspects of each other - they are **interdependent**. It's hard to see how
-something could feel good to use without fitting to our needs.
+something could feel good to use without fitting our needs.
 
 Aspects of functional quality can be measured - literally, with numbers, in
 some cases (consider completeness). That's clearly not possible with
@@ -92,10 +92,10 @@ to describe. Deep quality can’t be ascertained by holding something up to the
 world. It’s **subjective**, which means that we can assess it only in the light
 of the needs of the subject of experience, the human.
 
-And, deep quality is **conditional** upon functional quality. Documentation
+And deep quality is **conditional** upon functional quality. Documentation
 can be accurate and complete and consistent without being truly excellent -
 but it will never have deep quality without being accurate and complete and
-consistent. No user of documentation will experience it as beautiful, if it's
+consistent. No user of documentation will experience it as beautiful if it's
 inaccurate, or enjoy the way it anticipates their needs if it's inconsistent.
 The moment we run into such lapses the experience of documentation is
 tarnished.
@@ -116,7 +116,7 @@ deep quality we must *invent*.
    * - Functional quality
      - Deep quality
    * - independent characteristics
-     - independent characteristics
+     - interdependent characteristics
    * - objective
      - subjective
    * - measured against the world
@@ -130,7 +130,7 @@ deep quality we must *invent*.
 Diátaxis and quality
 --------------------
 
-Functional quality's obligations are met through conscientious observance of
+Functional quality obligations are met through conscientious observance of
 the demands of the craft of documentation. They require solid skill and
 knowledge of the technical domain, the ability to gather up a complete
 terrain into a single, coherent, consistent map of it.
@@ -167,7 +167,7 @@ But, as far as functional quality goes, Diátaxis principles can have only an
 Creating deep quality
 ~~~~~~~~~~~~~~~~~~~~~
 
-In deep quality on the other hand, the Diátaxis approach can do more.
+In deep quality, on the other hand, the Diátaxis approach can do more.
 
 For example, it helps documentation *fit user needs* by describing
 documentation modes that are based on them; its categories exist as a
